@@ -1,4 +1,4 @@
-# diapredict 1.0
+# DiaPreSys
 Diabetes Prediction System with python
 
 # Diabetes Patients Analysis
@@ -22,7 +22,7 @@ The dataset includes the following columns:
 The objective of this analysis is to explore the dataset, visualize relationships between features and the target variable (Outcome), and provide recommendations based on the findings.
 
 ## Files
-- `diabetes_analysis.ipynb`: Jupyter Notebook with the complete analysis.
+- `DiaPreSys.ipynb`: Jupyter Notebook with the complete analysis.
 - `diabetes.csv`: The dataset file.
 - `requirements.txt`: List of required Python packages.
 
@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd diapredict
+    cd DiaPreSys
     ```
 
 3. Install the required packages:
@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 4. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook DiaPredict.ipynb
+    jupyter notebook DiaPreSys.ipynb
     ```
 
 ## Visualizations
